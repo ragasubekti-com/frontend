@@ -5,7 +5,10 @@ class Home extends Component {
     return (
       <div>
         <div className="jumbotron-parent">
-          <div className="d-flex justify-content-center align-items-center h-100 display-4">
+          <div
+            className="d-flex justify-content-center align-items-center h-100 display-4"
+            style={{ color: "#fff" }}
+          >
             Siz is a cat, Thanx
           </div>
         </div>
