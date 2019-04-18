@@ -1,3 +1,7 @@
+body {
+  font-family: "Poppins", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .jumbotron-parent {
   position: relative;
   background: #000000;
